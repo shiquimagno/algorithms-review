@@ -1,0 +1,6 @@
+# Entorno virtual de Python
+ml-env/
+
+# Archivos temporales
+__pycache__/
+*.pyc
